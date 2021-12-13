@@ -28,3 +28,18 @@ The LED Display is composed of 18 3D-printed hexagonal cells, with 18 3mm acryli
 ## Software
 My Wemos D1 Mini is running [WLED](https://github.com/Aircoookie/WLED). I have 18 virtual LEDs set up, with 12 LEDs grouped to each.
 
+## Assembly/Wiring
+<img src="/Media/Screen Shot 2021-12-12 at 3.54.21 PM.png" width="50%" height="50%">
+<img src="/Media/circuit_1.jpg" width="75%" height="75%">
+<img src="/Media/IMG_2675.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2806.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2801.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2914.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2940.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2964.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2986.jpeg" width="75%" height="75%">
+<img src="/Media/IMG_2991.jpeg" width="75%" height="75%">
+
+
+
+
