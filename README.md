@@ -21,9 +21,13 @@ The LED Display is composed of 18 3D-printed hexagonal cells, with 18 3mm acryli
 |1|[Wemos D1 Mini](https://www.amazon.com/gp/product/B07W8ZQY62/ref=ewc_pr_img_2?smid=A3KCMC2VCXFGL9&th=1)||
 |2-3|[JST 3-Pin Connectors, 20pk](https://www.amazon.com/ALITOVE-Female-Connector-WS2812B-SK6812-RGBW/dp/B071H5XCN5/ref=sr_1_3?dchild=1&keywords=3-wire+jst+connector&qid=1634795158&sr=8-3)| May not be necessary, if you want to make permanent connections instead|
 |2-3| [Roll(s) of Black PETG](https://www.amazon.com/gp/product/B07TRPPGT7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)| I chose to use PETG for the structural properties. PLA would probably still work fine.
-|3|[3pk White Acrylic Diffuser (3mm)](https://www.amazon.com/Acrylic-Plexiglass-Versatile-Strength-Plastic/dp/B083XQ2QS7/ref=sr_1_1?dchild=1&keywords=2mm+white+acrylic+diffuser+12x12+6pk&qid=1634798519&sr=8-1)| NOTE: You will need access to a laser cutter (or some other machinery) to cut these acrylic sheets. I have seen some projects that use a thin layer of white PLA as a diffuser instead of acrylic, your mileage may vary. 
+|3|[3pk White Acrylic Diffuser (3mm)](https://www.amazon.com/Acrylic-Plexiglass-Versatile-Strength-Plastic/dp/B083XQ2QS7/ref=sr_1_1?dchild=1&keywords=2mm+white+acrylic+diffuser+12x12+6pk&qid=1634798519&sr=8-1)| NOTE: You will need access to a laser cutter (or some other machinery) to cut these acrylic sheets. I have seen some projects that use a thin layer of white PLA as a diffuser instead of acrylic, your mileage may vary.
+|1| Spool of solder
+|1| Soldering Iron
+|3| Rolls of assorted red, black, and green wire||
 |1|[5V 15A Power Supply](https://www.amazon.com/gp/product/B08764XJ2M/ref=ox_sc_act_title_1?smid=AOTVD5RNGJU9R&psc=1)|If you choose to use more/less LEDs in your setup, you can adjust the power supply wattage as necessary.|
 |2-3|Bottle(s) of your superglue of choice||
+|2-3|Screws for wall-mounting
 
 ## Software
 My Wemos D1 Mini is running [WLED](https://github.com/Aircoookie/WLED). I have 18 virtual LEDs set up, with 12 LEDs grouped to each.
