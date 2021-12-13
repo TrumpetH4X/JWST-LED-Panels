@@ -2,17 +2,17 @@
 
 <img src="/Media/IMG_2971.jpeg" width="500" height="500">
 
+## Overview
+I've always enjoyed the honeycomb mirror arrangement of [NASA's James Webb Space Telescope (JWST)](https://jwst.nasa.gov/content/webbLaunch/index.html). To commemorate the telescope's launch on December 22, 2021, I created a set of DIY Nanoleaf LED wall panels inspired by the telescope's primary mirror. 
+
+The LED Display is composed of 18 3D-printed hexagonal cells, with 18 3mm acrylic light diffusers glued to the top. Microcontroller is a Wemos D1 Mini running [WLED](https://github.com/Aircoookie/WLED). Each cell has 12 LEDs, divided into two LEDs per side (216 LEDs total). 216 x ~60mA x 5V = ~64.8W peak total power draw. Total display size is ~26" long.
+
 ## Demo Videos
 #### JWST LED Panels Demo #1
 [![JWST LED Panels Demo #1](https://img.youtube.com/vi/lVMFP3fJyJ0/0.jpg)](https://youtu.be/lVMFP3fJyJ0)
 
 #### JWST LED Panels Demo #2
 [![JWST LED Panels Demo #2](https://img.youtube.com/vi/Et5v4fz4g6E/0.jpg)](https://youtu.be/Et5v4fz4g6E)
-
-## Overview
-I've always enjoyed the honeycomb mirror arrangement of [NASA's James Webb Space Telescope (JWST)](https://jwst.nasa.gov/content/webbLaunch/index.html | width = 10). To commemorate the telescope's launch on December 22, 2021, I created a set of DIY Nanoleaf LED wall panels inspired by the telescope's primary mirror. 
-
-The LED Display is composed of 18 3D-printed hexagonal cells, with 18 3mm acrylic light diffusers glued to the top. Microcontroller is a Wemos D1 Mini running [WLED](https://github.com/Aircoookie/WLED). Each cell has 12 LEDs, divided into two LEDs per side. 216 LEDs total, 216 x 60mA x 5V = ~64.8W total power draw. Total display size is ~26" long.
 
 ## Parts List
 |Quantity|Item|Notes|
