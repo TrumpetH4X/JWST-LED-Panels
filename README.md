@@ -1,6 +1,6 @@
 # JWST LED Wall Panels
 
-<img src="/Media/IMG_2971.jpeg" width="500" height="500">
+<img src="/Media/IMG_2971.jpeg" width="75%" height="75%">
 
 ## Overview
 Thingiverse project link:
